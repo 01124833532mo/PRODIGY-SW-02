@@ -1,4 +1,4 @@
-#Task02 for PRODIGY-SW-02 Create a Guessing Game
+# Task02 for PRODIGY-SW-02 Create a Guessing Game
 1-Random Number Generation: The program generates a random number between 1 and 1000.
 2-User Guessing: The user is asked to guess the number.
 3-Feedback: The program tells the user if their guess is too high or too low.
